@@ -1,4 +1,4 @@
-# Mel Brandt — Lifestyle Industries
+# LETS CONNECT PAGEE
 
 Static, mobile-responsive landing page for Mel Brandt. The site has no build step or runtime dependencies and can be hosted directly on GitHub Pages or imported into Vercel.
 
