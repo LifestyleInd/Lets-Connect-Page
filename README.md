@@ -1,6 +1,6 @@
-# LETS CONNECT PAGEE
+# LETS CONNECT PAGE
 
-Static, mobile-responsive landing page for Mel Brandt. The site has no build step or runtime dependencies and can be hosted directly on GitHub Pages or imported into Vercel.
+Converted from JSX to HTML for Github
 
 ## Local preview
 
